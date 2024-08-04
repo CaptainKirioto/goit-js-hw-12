@@ -1,5 +1,3 @@
-// функції для HTTP-запитів
-
 import axios from 'axios';
 import '../css/styles.css';
 

@@ -1,5 +1,3 @@
-// логіка роботи додатка
-
 /* ----------- iziToast ----------- */
 
 import iziToast from 'izitoast';

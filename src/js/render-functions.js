@@ -1,5 +1,3 @@
-// функції для відображення елементів інтерфейсу
-
 /* ----------- SimpleLightbox ----------- */
 
 import SimpleLightbox from 'simplelightbox';
